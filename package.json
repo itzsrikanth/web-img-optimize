@@ -1,0 +1,15 @@
+{
+  "name": "web-img-optimize",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/itzsrikanth/web-img-optimize.git",
+  "author": "Srikanth Sharma <snow.650@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.32.0",
+    "yargs": "^17.7.1"
+  },
+  "bin": {
+    "image-cli": "./index.js"
+  }  
+}
